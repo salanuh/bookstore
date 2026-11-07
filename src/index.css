@@ -1,0 +1,10 @@
+:root {
+  color-scheme: light;
+}
+
+body {
+  margin: 0;
+  background-color: white;
+  color: black;
+  font-family: Roboto, Arial, sans-serif;
+}
